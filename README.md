@@ -15,7 +15,7 @@ This repository contains information regarding how to setup VS Code for Embeded 
   6. Change the MakeFile config according to your buil. 
   7. If you need the hex file then remove the burn part.
   8. After configuring the make file- ctrl+shift+p select Tasks:Configure Task Option.
-      Now-
+      Now-                                                                                        
         a. remove whole options div.             
         b. remove all the args.                         
         c. change the path inside "command" to "make".                                    
