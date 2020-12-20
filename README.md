@@ -1,5 +1,5 @@
 # VSCode-4-Embeded-C
-This repository contains information regarding how to setup VS Code for Embeded C Development.
+This repository contains information regarding how to setup VS Code(Any Text Editor Just few things will be different) for Embeded C Development.
 
 ## Instructions-
   1. Setup a workspace in the directory you are writing the code.
@@ -21,7 +21,7 @@ This repository contains information regarding how to setup VS Code for Embeded 
         c. change the path inside "command" to "make".                                    
         d. change the lable to anything you like.                                             
         e. <u>Now Run your app by selecting the option with the lable you have given.</u>          
-  9. OR simply run by putting make in terminal by navigating to the directory.
+  9. OR simply run by putting make in terminal by navigating to the directory. You dont need to create a task.
 
-## Link to Download Header Files- https://www.nongnu.org/avr-libc/
+## Link to Download AVR Header Files- https://www.nongnu.org/avr-libc/
 
