@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "First Make file XD",
+			"command": "MakeFile",
+			"args": [
+			],
+			"problemMatcher": [
+				"$gcc"
+			],
+			// "group": "build",
+			// "detail": "compiler: C:\\MinGW\\bin\\gcc.exe"
+		}
+	]
+}
