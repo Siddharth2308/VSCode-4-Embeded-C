@@ -20,7 +20,8 @@ This repository contains information regarding how to setup VS Code for Embeded 
         b. remove all the args.                         
         c. change the path inside "command" to "make".                                    
         d. change the lable to anything you like.                                             
-        e. <u>Now Run your app by selecting the option with the lable you have given.</u>                                      
+        e. <u>Now Run your app by selecting the option with the lable you have given.</u>          
+  9. OR simply run by putting make in terminal by navigating to the directory.
 
-### Link to Download Header Files- https://sourceforge.net/projects/winavr/
+## Link to Download Header Files- https://www.nongnu.org/avr-libc/
 
