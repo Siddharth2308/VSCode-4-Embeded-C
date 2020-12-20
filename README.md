@@ -11,8 +11,8 @@ This repository contains information regarding how to setup VS Code(Any Text Edi
                 #define __AVR_ATmega8__
              #endif
           2. #define __AVR_ATmega8__
-  5. Now Copy paste your make fule into the directory.
-  6. Change the MakeFile config according to your buil. 
+  5. Now Copy paste your make file into the directory.
+  6. Change the MakeFile config according to your builb. 
   7. If you need the hex file then remove the burn part.
   8. After configuring the make file- ctrl+shift+p select Tasks:Configure Task Option.
       Now-                                                                                        
