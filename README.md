@@ -22,6 +22,7 @@ This repository contains information regarding how to setup VS Code(Any Text Edi
         d. change the lable to anything you like.                                             
         e. <u>Now Run your app by selecting the option with the lable you have given.</u>          
   9. OR simply run by putting make in terminal by navigating to the directory. You dont need to create a task.
+  10.Working on hexfile conversion.
 
 ## Link to Download AVR Header Files- https://www.nongnu.org/avr-libc/
 
